@@ -4,7 +4,7 @@
 - Custom Elytra durability
 
 ## Screenshot
-![CreativeElytra](screenshot.png)
+![CreativeElytra](https://ibb.co.com/xykgM7Q)
 
 ## Download
 
