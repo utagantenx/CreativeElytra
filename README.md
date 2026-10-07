@@ -1,7 +1,3 @@
-# CreativeElytra
-
-Minecraft plugin untuk Elytra dengan sistem durability berbasis jarak terbang.
-
 ## Features
 
 - Permission support
@@ -9,8 +5,10 @@ Minecraft plugin untuk Elytra dengan sistem durability berbasis jarak terbang.
 
 ## Screenshot
 
+Testen on version 26.1.2 paper
+
 ![CreativeElytra](screenshot.png)
 
 ## Download
 
-Lihat [Releases](../../releases) untuk mendapatkan file `.jar`.
+[Releases](../../releases) `.jar`.
