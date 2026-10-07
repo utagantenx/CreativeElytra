@@ -2,6 +2,7 @@
 
 - Permission support
 - Custom Elytra durability
+
 Version Paper 26+
 
 ## Screenshot
