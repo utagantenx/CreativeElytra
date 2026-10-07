@@ -1,0 +1,25 @@
+# by: UTA GANTENX
+
+# Apakah pemain wajib mempunyai permission
+# CreativeElytra.allow untuk menggunakan Elytra flight?
+require-permission: false
+
+# Setiap berapa blok durability berkurang.
+#
+# Contoh:
+# 10.0 = setiap 10 blok
+# 5.0  = setiap 5 blok
+# 20.0 = setiap 20 blok
+#
+blocks-per-durability: 10.0
+
+
+# Berapa durability yang berkurang
+# setiap kali batas blok tercapai.
+#
+# Contoh:
+# 1 = -1 durability
+# 2 = -2 durability
+# 3 = -3 durability
+#
+durability-per-blocks: 1

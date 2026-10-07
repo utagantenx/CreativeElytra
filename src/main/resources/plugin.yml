@@ -1,0 +1,10 @@
+name: CreativeElytra
+version: 1.0.0
+main: me.uta.fly.Fly
+api-version: '1.21'
+author: UTA
+
+permissions:
+  CreativeElytra.allow:
+    description: Allows survival players to fly with an Elytra
+    default: op
