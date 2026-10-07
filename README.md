@@ -2,11 +2,9 @@
 
 - Permission support
 - Custom Elytra durability
+Version Paper 26+
 
 ## Screenshot
-
-Testen on version 26.1.2 paper
-
 ![CreativeElytra](screenshot.png)
 
 ## Download
