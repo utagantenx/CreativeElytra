@@ -4,10 +4,8 @@ Minecraft plugin untuk Elytra dengan sistem durability berbasis jarak terbang.
 
 ## Features
 
-- Custom Elytra durability
-- Durability berdasarkan jarak terbang
 - Permission support
-- Tidak mengubah fly speed pemain
+- Custom Elytra durability
 
 ## Screenshot
 
