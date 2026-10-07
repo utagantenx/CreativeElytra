@@ -1,6 +1,6 @@
 ## Features
 
-- Flying survival state with Elytra
+- Can fly in survival mode with Elytra
 - Permission support
 - Custom Elytra durability
 
